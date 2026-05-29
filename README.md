@@ -74,14 +74,14 @@ The platform combines Generative AI, operational analytics, and risk intelligenc
 
 ## 📈 Platform Capabilities
 
-- Incident Classification
-- Risk Scoring
-- Executive Briefings
-- Passenger Communications
-- Department Impact Analysis
-- Operational Dashboards
-- Decision Support Recommendations
-- Operational Risk Monitoring
+• AI-Powered Incident Classification
+• Operational Risk Assessment & Scoring
+• Executive Briefing Generation
+• Passenger Communication Drafting
+• Department Impact Analytics
+• Interactive Operational Dashboards
+• Decision Support Recommendations
+• Airport Operations Monitoring
 
 ---
 
@@ -94,6 +94,8 @@ The platform combines Generative AI, operational analytics, and risk intelligenc
 - Retrieval-Augmented Generation (RAG)
 - Airport Knowledge Base Integration
 - Live Operations Monitoring
+- Computer Vision Integration for Runway Monitoring
+- Real-Time Airport Incident Detection
 - Advanced Operational Intelligence
 
 ---
